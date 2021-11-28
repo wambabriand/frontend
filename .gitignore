@@ -11,6 +11,9 @@
 # production
 /build
 
+# pour l'integration avec spring boot
+/node
+
 # misc
 .DS_Store
 .env.local
